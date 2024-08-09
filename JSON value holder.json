@@ -1,1 +1,35 @@
-{"nps_value": "100.00"}
+{
+  "locations": [
+    {
+      "location": "Mission, TX",
+      "product_lines": [
+        {
+          "name": "Chevrolet",
+          "sales_score": 95.45,
+          "sales_target": 60,
+          "service_score": 92.86,
+          "service_target": 60
+        },
+        {
+          "name": "Buick",
+          "sales_score": 96.39,
+          "sales_target": 60,
+          "service_score": 69.57,
+          "service_target": 60
+        }
+      ]
+    },
+    {
+      "location": "Edinburg, TX",
+      "product_lines": [
+        {
+          "name": "Fiesta Chevrolet",
+          "sales_score": 96.39,
+          "sales_target": 60,
+          "service_score": 69.57,
+          "service_target": 60
+        }
+      ]
+    }
+  ]
+}
