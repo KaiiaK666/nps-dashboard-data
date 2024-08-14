@@ -1,4 +1,6 @@
 {
     "service_nps_value": "75.00",
-    "sales_nps_value": "96.00"
+    "sales_nps_value": "96.00",
+    "buick_gmc_sales_nps_value": "96.00",
+    "buick_gmc_service_nps_value": "75.00"
 }
