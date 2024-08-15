@@ -7,13 +7,13 @@
     "mission_chevrolet_service_nps_value": "28.57",
     "fiesta_chevrolet_sales_nps_value": "91.67",
     "fiesta_chevrolet_service_nps_value": "81.82",
-    "last_commit_attempt": "2024-08-15 11:53:52",
+    "last_commit_attempt": "2024-08-15 11:59:03",
     "kia_harlingen_sales_score": "992.00",
     "kia_harlingen_sales_benchmark": "963.70",
     "kia_harlingen_service_score": "886.40",
     "kia_harlingen_service_benchmark": "905.90",
-    "kia_mission_sales_score": "983.16",
-    "kia_mission_sales_benchmark": "963.70",
+    "kia_mission_sales_score": "984.76",
+    "kia_mission_sales_benchmark": "963.83",
     "kia_mission_service_score": "852.90",
-    "kia_mission_service_benchmark": "905.90"
+    "kia_mission_service_benchmark": "906.20"
 }
